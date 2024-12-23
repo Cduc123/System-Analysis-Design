@@ -12,7 +12,7 @@ If I could revise one part of my work, it would be the user interface design. Wh
 
 #Understanding and Implementing User Needs
 
-To understand the client’s needs, I thoroughly analyzed the business requirements and conducted interviews. By breaking down these requirements into functional and nonfunctional components, I ensured that the system addressed all user roles—customers, secretaries, IT staff, and the owner. Considering user needs is critical because the success of any system depends on how well it solves real-world problems and delivers value to users.
+To understand the client’s needs, I thoroughly analyzed the business requirements and conducted interviews. By breaking down these requirements into functional and nonfunctional components, I ensured that the system addressed all user roles customers, secretaries, IT staff, and the owner. Considering user needs is critical because the success of any system depends on how well it solves real-world problems and delivers value to users.
 
 #My Approach to Software Design
 
